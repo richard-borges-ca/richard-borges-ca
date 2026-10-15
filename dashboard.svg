@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1260" viewBox="0 0 1200 1260" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Richard Borges na Conta Azul: dashboard de números (2019–2026)</title>
+<desc id="dsc">668 PRs, 2.893 code reviews, 1.612 issues no Jira, 172 épicos, 143 itens no Confluence; seis fases de time entre 04/11/2019 e 23/10/2026; promoção em 04/11/2024, arquiteto em 05/11/2025.</desc>
+<style>
+svg{--page:#f9f9f7;--surf:#fcfcfb;--ink1:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--base:#c3c2b7;--border:rgba(11,11,11,0.10);--neutral:#e1e0d9;--s1:#2a78d6;--on1:#0b0b0b;--s2:#eb6834;--on2:#0b0b0b;--s3:#1baf7a;--on3:#0b0b0b;--s4:#eda100;--on4:#0b0b0b;--s5:#e87ba4;--on5:#0b0b0b;--s6:#008300;--on6:#ffffff; font-family:system-ui,-apple-system,"Segoe UI",sans-serif;}
+@media (prefers-color-scheme: dark){svg{--page:#0d0d0d;--surf:#1a1a19;--ink1:#f0efec;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--base:#383835;--border:rgba(255,255,255,0.10);--neutral:#383835;--s1:#3987e5;--on1:#0b0b0b;--s2:#d95926;--on2:#0b0b0b;--s3:#199e70;--on3:#0b0b0b;--s4:#c98500;--on4:#0b0b0b;--s5:#d55181;--on5:#0b0b0b;--s6:#008300;--on6:#ffffff;}}
+.page{fill:var(--page)} .surf{fill:var(--surf);stroke:var(--border);stroke-width:1}
+.i1{fill:var(--ink1)} .i2{fill:var(--ink2)} .mu{fill:var(--muted)}
+.grid{stroke:var(--grid);stroke-width:1} .base{stroke:var(--base);stroke-width:1}
+.lead{stroke:var(--base);stroke-width:1}
+.neutral{fill:var(--neutral)} .bar{fill:var(--s1)}
+.dot{fill:var(--s1);stroke:var(--surf);stroke-width:2}
+.t{font-size:12px} .tn{font-variant-numeric:tabular-nums}
+.h1{font-size:26px;font-weight:600} .h2{font-size:16px;font-weight:600} .h3{font-size:13px;font-weight:600}
+.sub{font-size:13px} .lbl{font-size:12px} .sm{font-size:11px}
+.hero{font-size:56px;font-weight:600} .val{font-size:30px;font-weight:600}
+.s1{fill:var(--s1)} .on1{fill:var(--on1)}.s2{fill:var(--s2)} .on2{fill:var(--on2)}.s3{fill:var(--s3)} .on3{fill:var(--on3)}.s4{fill:var(--s4)} .on4{fill:var(--on4)}.s5{fill:var(--s5)} .on5{fill:var(--on5)}.s6{fill:var(--s6)} .on6{fill:var(--on6)}</style>
+<rect class="page" x="0" y="0" width="1200" height="1260"/>
+<text x="40.0" y="58.0" class="h1 i1" text-anchor="start">Richard Borges na Conta Azul</text>
+<text x="40.0" y="84.0" class="sub i2" text-anchor="start">Engenheiro front-end → Arquiteto / Front Lead · 04/11/2019 → 23/10/2026 (quase 7 anos)</text>
+<rect class="surf" x="40" y="110" width="340" height="200" rx="12"/>
+<text x="64.0" y="146.0" class="lbl i2" text-anchor="start">Code reviews na org ContaAzul</text>
+<text x="62.0" y="212.0" class="hero i1" text-anchor="start">2.893</text>
+<text x="64.0" y="238.0" class="sm mu" text-anchor="start">2.273 em richardborgesdev + 620 em richard-borges-ca</text>
+<polyline points="64.0,291.9 105.7,286.1 147.4,289.9 189.1,289.8 230.9,284.6 272.6,278.6 314.3,269.2 356.0,258.0" fill="none" stroke="var(--s1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="356.0" cy="258.0" r="4" class="dot"><title>2026: 1.118 reviews</title></circle>
+<text x="64.0" y="306.0" class="sm mu tn" text-anchor="start">2019</text>
+<text x="356.0" y="306.0" class="sm mu tn" text-anchor="end">2026</text>
+<rect class="surf" x="396" y="110" width="246" height="92" rx="12"/>
+<text x="414.0" y="136.0" class="lbl i2" text-anchor="start">PRs autorados</text>
+<text x="414.0" y="170.0" class="val i1" text-anchor="start">668</text>
+<text x="414.0" y="190.0" class="sm mu" text-anchor="start">2 contas GitHub, org ContaAzul</text>
+<rect class="surf" x="658" y="110" width="246" height="92" rx="12"/>
+<text x="676.0" y="136.0" class="lbl i2" text-anchor="start">Issues no Jira</text>
+<text x="676.0" y="170.0" class="val i1" text-anchor="start">1.612</text>
+<text x="676.0" y="190.0" class="sm mu" text-anchor="start">1.037 assignee · 966 reporter</text>
+<rect class="surf" x="920" y="110" width="246" height="92" rx="12"/>
+<text x="938.0" y="136.0" class="lbl i2" text-anchor="start">Épicos no Jira</text>
+<text x="938.0" y="170.0" class="val i1" text-anchor="start">172</text>
+<text x="938.0" y="190.0" class="sm mu" text-anchor="start">~30 criados por ele só em 2026</text>
+<rect class="surf" x="396" y="218" width="246" height="92" rx="12"/>
+<text x="414.0" y="244.0" class="lbl i2" text-anchor="start">Itens criados no Confluence</text>
+<text x="414.0" y="278.0" class="val i1" text-anchor="start">143</text>
+<text x="414.0" y="298.0" class="sm mu" text-anchor="start">124 páginas · 5 whiteboards · 14 pastas</text>
+<rect class="surf" x="658" y="218" width="246" height="92" rx="12"/>
+<text x="676.0" y="244.0" class="lbl i2" text-anchor="start">Canais criados no Slack</text>
+<text x="676.0" y="278.0" class="val i1" text-anchor="start">7</text>
+<text x="676.0" y="298.0" class="sm mu" text-anchor="start">comunidades e projetos de front</text>
+<rect class="surf" x="920" y="218" width="246" height="92" rx="12"/>
+<text x="938.0" y="244.0" class="lbl i2" text-anchor="start">Commits</text>
+<text x="938.0" y="278.0" class="val i1" text-anchor="start">2.469</text>
+<text x="938.0" y="298.0" class="sm mu" text-anchor="start">nos repositórios de front, sem releases</text>
+<rect class="surf" x="40" y="330" width="1120" height="370" rx="12"/>
+<text x="64.0" y="362.0" class="h2 i1" text-anchor="start">Linha do tempo</text>
+<text x="64.0" y="382.0" class="sub i2" text-anchor="start">Fases de time, papéis em paralelo e marcos de carreira</text>
+<line class="grid" x1="222.3" y1="404" x2="222.3" y2="668"/>
+<text x="226.3" y="410.0" class="sm mu tn" text-anchor="start">2020</text>
+<line class="grid" x1="356.3" y1="404" x2="356.3" y2="668"/>
+<text x="360.3" y="410.0" class="sm mu tn" text-anchor="start">2021</text>
+<line class="grid" x1="489.9" y1="404" x2="489.9" y2="668"/>
+<text x="493.9" y="410.0" class="sm mu tn" text-anchor="start">2022</text>
+<line class="grid" x1="623.5" y1="404" x2="623.5" y2="668"/>
+<text x="627.5" y="410.0" class="sm mu tn" text-anchor="start">2023</text>
+<line class="grid" x1="757.1" y1="404" x2="757.1" y2="668"/>
+<text x="761.1" y="410.0" class="sm mu tn" text-anchor="start">2024</text>
+<line class="grid" x1="891.1" y1="404" x2="891.1" y2="668"/>
+<text x="895.1" y="410.0" class="sm mu tn" text-anchor="start">2025</text>
+<line class="grid" x1="1024.7" y1="404" x2="1024.7" y2="668"/>
+<text x="1028.7" y="410.0" class="sm mu tn" text-anchor="start">2026</text>
+<text x="64.0" y="439.0" class="h3 i1" text-anchor="start">Time</text>
+<rect x="201.1" y="420" width="53.5" height="28" rx="4" class="s1"><title>1 Banking / Antecipação: 04/11/2019 → 01/04/2020</title></rect>
+<text x="227.9" y="439.0" class="h3 on1" text-anchor="middle">1</text>
+<rect x="256.6" y="420" width="371.0" height="28" rx="0" class="s2"><title>2 Painel do Contador / CA Mais: 01/04/2020 → 15/01/2023</title></rect>
+<text x="266.6" y="439.0" class="lbl on2" text-anchor="start">2 · Painel do Contador / CA Mais</text>
+<rect x="629.6" y="420" width="316.1" height="28" rx="0" class="s3"><title>3 Squad de Crédito: 15/01/2023 → 02/06/2025</title></rect>
+<text x="639.6" y="439.0" class="lbl on3" text-anchor="start">3 · Squad de Crédito</text>
+<rect x="947.8" y="420" width="55.1" height="28" rx="0" class="s4"><title>4 Backoffice financeiro / antifraude: 02/06/2025 → 05/11/2025</title></rect>
+<text x="975.3" y="439.0" class="h3 on4" text-anchor="middle">4</text>
+<rect x="1004.9" y="420" width="51.8" height="28" rx="0" class="s5"><title>5 Arquitetura (Vue 3 / DS): 05/11/2025 → 01/04/2026</title></rect>
+<text x="1030.8" y="439.0" class="h3 on5" text-anchor="middle">5</text>
+<rect x="1058.7" y="420" width="74.0" height="28" rx="4" class="s6"><title>6 Plataforma front AI-native: 01/04/2026 → 23/10/2026</title></rect>
+<text x="1095.7" y="439.0" class="h3 on6" text-anchor="middle">6</text>
+<rect x="200.0" y="461" width="10" height="10" rx="2" class="s1"/>
+<text x="216.0" y="470.0" class="sm i2" text-anchor="start">1 · Banking / Antecipação</text>
+<rect x="388.5" y="461" width="10" height="10" rx="2" class="s2"/>
+<text x="404.5" y="470.0" class="sm i2" text-anchor="start">2 · Painel do Contador / CA Mais</text>
+<rect x="619.7" y="461" width="10" height="10" rx="2" class="s3"/>
+<text x="635.7" y="470.0" class="sm i2" text-anchor="start">3 · Squad de Crédito</text>
+<rect x="777.7" y="461" width="10" height="10" rx="2" class="s4"/>
+<text x="793.7" y="470.0" class="sm i2" text-anchor="start">4 · Backoffice financeiro / antifraude</text>
+<rect x="200.0" y="479" width="10" height="10" rx="2" class="s5"/>
+<text x="216.0" y="488.0" class="sm i2" text-anchor="start">5 · Arquitetura (Vue 3 / DS)</text>
+<rect x="406.8" y="479" width="10" height="10" rx="2" class="s6"/>
+<text x="422.8" y="488.0" class="sm i2" text-anchor="start">6 · Plataforma front AI-native</text>
+<text x="64.0" y="516.0" class="h3 i1" text-anchor="start">Papéis</text>
+<rect x="367.7" y="502" width="656.7" height="20" rx="4" class="neutral"><title>Guilda de front: facilitador e mantenedor: 02/2021 → 12/2025</title></rect>
+<text x="375.7" y="516.0" class="sm i1" text-anchor="start">Guilda de front: facilitador e mantenedor</text>
+<rect x="675.1" y="526" width="457.6" height="20" rx="4" class="neutral"><title>Conselho de Front: organizador: 05/2023 → 10/2026</title></rect>
+<text x="683.1" y="540.0" class="sm i1" text-anchor="start">Conselho de Front: organizador</text>
+<rect x="729.7" y="550" width="403.0" height="20" rx="4" class="neutral"><title>Aprovador de PRs críticos de front: 10/2023 → 10/2026</title></rect>
+<text x="737.7" y="564.0" class="sm i1" text-anchor="start">Aprovador de PRs críticos de front</text>
+<text x="64.0" y="598.0" class="h3 i1" text-anchor="start">Marcos</text>
+<line class="base" x1="200" y1="594" x2="1132.7" y2="594"/>
+<line class="lead" x1="201.1" y1="599" x2="201.1" y2="613"/>
+<text x="207.1" y="616.0" class="sm i1" text-anchor="start">04/11/2019 · entrada na Conta Azul</text>
+<circle cx="201.1" cy="594" r="5" class="dot"><title>04/11/2019 · entrada na Conta Azul</title></circle>
+<line class="lead" x1="869.9" y1="599" x2="869.9" y2="613"/>
+<text x="863.9" y="616.0" class="sm i1" text-anchor="end">04/11/2024 · promoção</text>
+<circle cx="869.9" cy="594" r="5" class="dot"><title>04/11/2024 · promoção</title></circle>
+<line class="lead" x1="1003.9" y1="599" x2="1003.9" y2="629"/>
+<text x="997.9" y="632.0" class="sm i1" text-anchor="end">05/11/2025 · arquiteto (time de Arquitetura)</text>
+<circle cx="1003.9" cy="594" r="5" class="dot"><title>05/11/2025 · arquiteto (time de Arquitetura)</title></circle>
+<line class="lead" x1="1053.3" y1="599" x2="1053.3" y2="645"/>
+<text x="1047.3" y="648.0" class="sm i1" text-anchor="end">20/03/2026 · Design System Vue 3 100%</text>
+<circle cx="1053.3" cy="594" r="5" class="dot"><title>20/03/2026 · Design System Vue 3 100%</title></circle>
+<line class="lead" x1="1080.7" y1="599" x2="1080.7" y2="661"/>
+<text x="1074.7" y="664.0" class="sm i1" text-anchor="end">03/06/2026 · 1º microfrontend compartilhado</text>
+<circle cx="1080.7" cy="594" r="5" class="dot"><title>03/06/2026 · 1º microfrontend compartilhado</title></circle>
+<line class="lead" x1="1132.7" y1="599" x2="1132.7" y2="677"/>
+<text x="1126.7" y="680.0" class="sm i1" text-anchor="end">23/10/2026 · último dia</text>
+<circle cx="1132.7" cy="594" r="5" class="dot"><title>23/10/2026 · último dia</title></circle>
+<rect class="surf" x="40.0" y="720" width="362.7" height="270" rx="12"/>
+<text x="60.0" y="750.0" class="h3 i1" text-anchor="start">PRs autorados por ano</text>
+<text x="60.0" y="768.0" class="sm mu" text-anchor="start">2026 até 14/10</text>
+<line class="base" x1="92.0" y1="956.0" x2="386.7" y2="956.0"/>
+<text x="84.0" y="960.0" class="sm mu tn" text-anchor="end">0</text>
+<line class="grid" x1="92.0" y1="871.0" x2="386.7" y2="871.0"/>
+<text x="84.0" y="875.0" class="sm mu tn" text-anchor="end">100</text>
+<line class="grid" x1="92.0" y1="786.0" x2="386.7" y2="786.0"/>
+<text x="84.0" y="790.0" class="sm mu tn" text-anchor="end">200</text>
+<path d="M98.4,956.0 V955.8 Q98.4,951.8 102.4,951.8 H118.4 Q122.4,951.8 122.4,955.8 V956.0 Z" class="bar"><title>2019: 5</title></path>
+<text x="110.4" y="972.0" class="sm mu tn" text-anchor="middle">'19</text>
+<path d="M135.2,956.0 V931.1 Q135.2,927.1 139.2,927.1 H155.2 Q159.2,927.1 159.2,931.1 V956.0 Z" class="bar"><title>2020: 34</title></path>
+<text x="147.2" y="972.0" class="sm mu tn" text-anchor="middle">'20</text>
+<path d="M172.1,956.0 V948.1 Q172.1,944.1 176.1,944.1 H192.1 Q196.1,944.1 196.1,948.1 V956.0 Z" class="bar"><title>2021: 14</title></path>
+<text x="184.1" y="972.0" class="sm mu tn" text-anchor="middle">'21</text>
+<path d="M208.9,956.0 V917.5 Q208.9,913.5 212.9,913.5 H228.9 Q232.9,913.5 232.9,917.5 V956.0 Z" class="bar"><title>2022: 50</title></path>
+<text x="220.9" y="972.0" class="sm mu tn" text-anchor="middle">'22</text>
+<path d="M245.8,956.0 V866.5 Q245.8,862.5 249.8,862.5 H265.8 Q269.8,862.5 269.8,866.5 V956.0 Z" class="bar"><title>2023: 110</title></path>
+<text x="257.8" y="972.0" class="sm mu tn" text-anchor="middle">'23</text>
+<path d="M282.6,956.0 V837.6 Q282.6,833.6 286.6,833.6 H302.6 Q306.6,833.6 306.6,837.6 V956.0 Z" class="bar"><title>2024: 144</title></path>
+<text x="294.6" y="972.0" class="sm mu tn" text-anchor="middle">'24</text>
+<path d="M319.4,956.0 V857.1 Q319.4,853.1 323.4,853.1 H339.4 Q343.4,853.1 343.4,857.1 V956.0 Z" class="bar"><title>2025: 121</title></path>
+<text x="331.4" y="972.0" class="sm mu tn" text-anchor="middle">'25</text>
+<path d="M356.3,956.0 V798.5 Q356.3,794.5 360.3,794.5 H376.3 Q380.3,794.5 380.3,798.5 V956.0 Z" class="bar"><title>2026: 190</title></path>
+<text x="368.3" y="972.0" class="sm mu tn" text-anchor="middle">'26</text>
+<text x="368.3" y="788.5" class="sm i1 tn" text-anchor="middle">190</text>
+<rect class="surf" x="418.7" y="720" width="362.7" height="270" rx="12"/>
+<text x="438.7" y="750.0" class="h3 i1" text-anchor="start">Code reviews por ano</text>
+<text x="438.7" y="768.0" class="sm mu" text-anchor="start">2026 até 14/10</text>
+<line class="base" x1="470.6666666666667" y1="956.0" x2="765.3" y2="956.0"/>
+<text x="462.7" y="960.0" class="sm mu tn" text-anchor="end">0</text>
+<line class="grid" x1="470.6666666666667" y1="899.3" x2="765.3" y2="899.3"/>
+<text x="462.7" y="903.3" class="sm mu tn" text-anchor="end">400</text>
+<line class="grid" x1="470.6666666666667" y1="842.7" x2="765.3" y2="842.7"/>
+<text x="462.7" y="846.7" class="sm mu tn" text-anchor="end">800</text>
+<line class="grid" x1="470.6666666666667" y1="786.0" x2="765.3" y2="786.0"/>
+<text x="462.7" y="790.0" class="sm mu tn" text-anchor="end">1.200</text>
+<path d="M477.1,956.0 V956.0 Q477.1,955.4 477.7,955.4 H500.5 Q501.1,955.4 501.1,956.0 V956.0 Z" class="bar"><title>2019: 4</title></path>
+<text x="489.1" y="972.0" class="sm mu tn" text-anchor="middle">'19</text>
+<path d="M513.9,956.0 V932.5 Q513.9,928.5 517.9,928.5 H533.9 Q537.9,928.5 537.9,932.5 V956.0 Z" class="bar"><title>2020: 194</title></path>
+<text x="525.9" y="972.0" class="sm mu tn" text-anchor="middle">'20</text>
+<path d="M550.8,956.0 V950.1 Q550.8,946.1 554.8,946.1 H570.8 Q574.8,946.1 574.8,950.1 V956.0 Z" class="bar"><title>2021: 70</title></path>
+<text x="562.8" y="972.0" class="sm mu tn" text-anchor="middle">'21</text>
+<path d="M587.6,956.0 V949.8 Q587.6,945.8 591.6,945.8 H607.6 Q611.6,945.8 611.6,949.8 V956.0 Z" class="bar"><title>2022: 72</title></path>
+<text x="599.6" y="972.0" class="sm mu tn" text-anchor="middle">'22</text>
+<path d="M624.4,956.0 V925.4 Q624.4,921.4 628.4,921.4 H644.4 Q648.4,921.4 648.4,925.4 V956.0 Z" class="bar"><title>2023: 244</title></path>
+<text x="636.4" y="972.0" class="sm mu tn" text-anchor="middle">'23</text>
+<path d="M661.2,956.0 V897.4 Q661.2,893.4 665.2,893.4 H681.2 Q685.2,893.4 685.2,897.4 V956.0 Z" class="bar"><title>2024: 442</title></path>
+<text x="673.2" y="972.0" class="sm mu tn" text-anchor="middle">'24</text>
+<path d="M698.1,956.0 V853.9 Q698.1,849.9 702.1,849.9 H718.1 Q722.1,849.9 722.1,853.9 V956.0 Z" class="bar"><title>2025: 749</title></path>
+<text x="710.1" y="972.0" class="sm mu tn" text-anchor="middle">'25</text>
+<path d="M734.9,956.0 V801.6 Q734.9,797.6 738.9,797.6 H754.9 Q758.9,797.6 758.9,801.6 V956.0 Z" class="bar"><title>2026: 1.118</title></path>
+<text x="746.9" y="972.0" class="sm mu tn" text-anchor="middle">'26</text>
+<text x="746.9" y="791.6" class="sm i1 tn" text-anchor="middle">1.118</text>
+<rect class="surf" x="797.3" y="720" width="362.7" height="270" rx="12"/>
+<text x="817.3" y="750.0" class="h3 i1" text-anchor="start">Issues no Jira por ano</text>
+<text x="817.3" y="768.0" class="sm mu" text-anchor="start">2026 até 14/10</text>
+<line class="base" x1="849.3333333333334" y1="956.0" x2="1144.0" y2="956.0"/>
+<text x="841.3" y="960.0" class="sm mu tn" text-anchor="end">0</text>
+<line class="grid" x1="849.3333333333334" y1="871.0" x2="1144.0" y2="871.0"/>
+<text x="841.3" y="875.0" class="sm mu tn" text-anchor="end">200</text>
+<line class="grid" x1="849.3333333333334" y1="786.0" x2="1144.0" y2="786.0"/>
+<text x="841.3" y="790.0" class="sm mu tn" text-anchor="end">400</text>
+<path d="M855.8,956.0 V947.2 Q855.8,943.2 859.8,943.2 H875.8 Q879.8,943.2 879.8,947.2 V956.0 Z" class="bar"><title>2019: 30</title></path>
+<text x="867.8" y="972.0" class="sm mu tn" text-anchor="middle">'19</text>
+<path d="M892.6,956.0 V885.6 Q892.6,881.6 896.6,881.6 H912.6 Q916.6,881.6 916.6,885.6 V956.0 Z" class="bar"><title>2020: 175</title></path>
+<text x="904.6" y="972.0" class="sm mu tn" text-anchor="middle">'20</text>
+<path d="M929.4,956.0 V856.7 Q929.4,852.7 933.4,852.7 H949.4 Q953.4,852.7 953.4,856.7 V956.0 Z" class="bar"><title>2021: 243</title></path>
+<text x="941.4" y="972.0" class="sm mu tn" text-anchor="middle">'21</text>
+<path d="M966.2,956.0 V867.8 Q966.2,863.8 970.2,863.8 H986.2 Q990.2,863.8 990.2,867.8 V956.0 Z" class="bar"><title>2022: 217</title></path>
+<text x="978.2" y="972.0" class="sm mu tn" text-anchor="middle">'22</text>
+<path d="M1003.1,956.0 V884.4 Q1003.1,880.4 1007.1,880.4 H1023.1 Q1027.1,880.4 1027.1,884.4 V956.0 Z" class="bar"><title>2023: 178</title></path>
+<text x="1015.1" y="972.0" class="sm mu tn" text-anchor="middle">'23</text>
+<path d="M1039.9,956.0 V892.0 Q1039.9,888.0 1043.9,888.0 H1059.9 Q1063.9,888.0 1063.9,892.0 V956.0 Z" class="bar"><title>2024: 160</title></path>
+<text x="1051.9" y="972.0" class="sm mu tn" text-anchor="middle">'24</text>
+<path d="M1076.8,956.0 V867.4 Q1076.8,863.4 1080.8,863.4 H1096.8 Q1100.8,863.4 1100.8,867.4 V956.0 Z" class="bar"><title>2025: 218</title></path>
+<text x="1088.8" y="972.0" class="sm mu tn" text-anchor="middle">'25</text>
+<path d="M1113.6,956.0 V793.8 Q1113.6,789.8 1117.6,789.8 H1133.6 Q1137.6,789.8 1137.6,793.8 V956.0 Z" class="bar"><title>2026: 391</title></path>
+<text x="1125.6" y="972.0" class="sm mu tn" text-anchor="middle">'26</text>
+<text x="1125.6" y="783.8" class="sm i1 tn" text-anchor="middle">391</text>
+<rect class="surf" x="40.0" y="1006" width="362.7" height="214" rx="12"/>
+<text x="60.0" y="1036.0" class="h3 i1" text-anchor="start">Reviews por repositório (top 4)</text>
+<line class="base" x1="180.0" y1="1052" x2="180.0" y2="1164"/>
+<text x="170.0" y="1071.0" class="sm i2" text-anchor="end">Módulos do ERP</text>
+<path d="M180.0,1058.0 H334.7 Q338.7,1058.0 338.7,1062.0 V1072.0 Q338.7,1076.0 334.7,1076.0 H180.0 Z" class="bar"><title>Módulos do ERP: 980</title></path>
+<text x="344.7" y="1071.0" class="sm i1 tn" text-anchor="start">980</text>
+<text x="170.0" y="1099.0" class="sm i2" text-anchor="end">Design System</text>
+<path d="M180.0,1086.0 H235.4 Q239.4,1086.0 239.4,1090.0 V1100.0 Q239.4,1104.0 235.4,1104.0 H180.0 Z" class="bar"><title>Design System: 367</title></path>
+<text x="245.4" y="1099.0" class="sm i1 tn" text-anchor="start">367</text>
+<text x="170.0" y="1127.0" class="sm i2" text-anchor="end">Front legado do ERP</text>
+<path d="M180.0,1114.0 H217.6 Q221.6,1114.0 221.6,1118.0 V1128.0 Q221.6,1132.0 217.6,1132.0 H180.0 Z" class="bar"><title>Front legado do ERP: 257</title></path>
+<text x="227.6" y="1127.0" class="sm i1 tn" text-anchor="start">257</text>
+<text x="170.0" y="1155.0" class="sm i2" text-anchor="end">CA Mais web</text>
+<path d="M180.0,1142.0 H215.3 Q219.3,1142.0 219.3,1146.0 V1156.0 Q219.3,1160.0 215.3,1160.0 H180.0 Z" class="bar"><title>CA Mais web: 243</title></path>
+<text x="225.3" y="1155.0" class="sm i1 tn" text-anchor="start">243</text>
+<rect class="surf" x="418.7" y="1006" width="362.7" height="214" rx="12"/>
+<text x="438.7" y="1036.0" class="h3 i1" text-anchor="start">Issues no Jira por projeto</text>
+<line class="base" x1="558.6666666666667" y1="1052" x2="558.6666666666667" y2="1192"/>
+<text x="548.7" y="1071.0" class="sm i2" text-anchor="end">Produto</text>
+<path d="M558.7,1058.0 H713.3 Q717.3,1058.0 717.3,1062.0 V1072.0 Q717.3,1076.0 713.3,1076.0 H558.7 Z" class="bar"><title>Produto: 1.211</title></path>
+<text x="723.3" y="1071.0" class="sm i1 tn" text-anchor="start">1.211</text>
+<text x="548.7" y="1099.0" class="sm i2" text-anchor="end">Plataforma AI-native</text>
+<path d="M558.7,1086.0 H594.9 Q598.9,1086.0 598.9,1090.0 V1100.0 Q598.9,1104.0 594.9,1104.0 H558.7 Z" class="bar"><title>Plataforma AI-native: 307</title></path>
+<text x="604.9" y="1099.0" class="sm i1 tn" text-anchor="start">307</text>
+<text x="548.7" y="1127.0" class="sm i2" text-anchor="end">Plataforma / infra</text>
+<path d="M558.7,1114.0 H561.1 Q565.1,1114.0 565.1,1118.0 V1128.0 Q565.1,1132.0 561.1,1132.0 H558.7 Z" class="bar"><title>Plataforma / infra: 49</title></path>
+<text x="571.1" y="1127.0" class="sm i1 tn" text-anchor="start">49</text>
+<text x="548.7" y="1155.0" class="sm i2" text-anchor="end">Chamados internos</text>
+<path d="M558.7,1142.0 H559.4 Q563.4,1142.0 563.4,1146.0 V1156.0 Q563.4,1160.0 559.4,1160.0 H558.7 Z" class="bar"><title>Chamados internos: 36</title></path>
+<text x="569.4" y="1155.0" class="sm i1 tn" text-anchor="start">36</text>
+<text x="548.7" y="1183.0" class="sm i2" text-anchor="end">outros</text>
+<path d="M558.7,1170.0 H558.7 Q560.0,1170.0 560.0,1171.3 V1186.7 Q560.0,1188.0 558.7,1188.0 H558.7 Z" class="bar"><title>outros: 10</title></path>
+<text x="566.0" y="1183.0" class="sm i1 tn" text-anchor="start">10</text>
+<rect class="surf" x="797.3" y="1006" width="362.7" height="214" rx="12"/>
+<text x="817.3" y="1036.0" class="h3 i1" text-anchor="start">Páginas criadas no Confluence por espaço</text>
+<line class="base" x1="937.3333333333334" y1="1052" x2="937.3333333333334" y2="1192"/>
+<text x="927.3" y="1071.0" class="sm i2" text-anchor="end">Painel do Contador</text>
+<path d="M937.3,1058.0 H1092.0 Q1096.0,1058.0 1096.0,1062.0 V1072.0 Q1096.0,1076.0 1092.0,1076.0 H937.3 Z" class="bar"><title>Painel do Contador: 34</title></path>
+<text x="1102.0" y="1071.0" class="sm i1 tn" text-anchor="start">34</text>
+<text x="927.3" y="1099.0" class="sm i2" text-anchor="end">Comunidade de front</text>
+<path d="M937.3,1086.0 H1068.7 Q1072.7,1086.0 1072.7,1090.0 V1100.0 Q1072.7,1104.0 1068.7,1104.0 H937.3 Z" class="bar"><title>Comunidade de front: 29</title></path>
+<text x="1078.7" y="1099.0" class="sm i1 tn" text-anchor="start">29</text>
+<text x="927.3" y="1127.0" class="sm i2" text-anchor="end">Arquitetura</text>
+<path d="M937.3,1114.0 H1068.7 Q1072.7,1114.0 1072.7,1118.0 V1128.0 Q1072.7,1132.0 1068.7,1132.0 H937.3 Z" class="bar"><title>Arquitetura: 29</title></path>
+<text x="1078.7" y="1127.0" class="sm i1 tn" text-anchor="start">29</text>
+<text x="927.3" y="1155.0" class="sm i2" text-anchor="end">Crédito</text>
+<path d="M937.3,1142.0 H1064.0 Q1068.0,1142.0 1068.0,1146.0 V1156.0 Q1068.0,1160.0 1064.0,1160.0 H937.3 Z" class="bar"><title>Crédito: 28</title></path>
+<text x="1074.0" y="1155.0" class="sm i1 tn" text-anchor="start">28</text>
+<text x="927.3" y="1183.0" class="sm i2" text-anchor="end">outros</text>
+<path d="M937.3,1170.0 H952.0 Q956.0,1170.0 956.0,1174.0 V1184.0 Q956.0,1188.0 952.0,1188.0 H937.3 Z" class="bar"><title>outros: 4</title></path>
+<text x="962.0" y="1183.0" class="sm i1 tn" text-anchor="start">4</text>
+<text x="40.0" y="1238.0" class="sm mu" text-anchor="start">Fontes: GitHub (richardborgesdev + richard-borges-ca, só a org ContaAzul), Jira, Confluence, Slack · levantamento de 14/10/2026 · abra o SVG direto no navegador para ver os valores ao passar o mouse</text>
+</svg>
